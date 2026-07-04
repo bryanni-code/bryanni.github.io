@@ -1,1 +1,18 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel&display=swap');
+:root {
+  --base-color: #ffffff;
+  --text-color: #000000;
+  --primary-color: #0000FF;
+  --secondary-color: #0047AB;
+  --color-1: #ffffff;
+  --color-2: #ffffff;
+  --color-3: #ffffff;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: Geist Pixel,
+}
