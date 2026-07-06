@@ -143,3 +143,19 @@ section#my-work {
 .grid-container img:hover {
   scale: 1.05;
 }
+
+details {
+  margin-top: 1em;
+  background-color: var(--base-color);
+  border-radius: 1em;
+}
+
+details summary {
+  padding: 1em;
+  font-size: 1.7rem;
+  font-family: Geist Pixel, Poppins;
+}
+
+details p {
+  padding: 0 2em 2em 2em;
+}
